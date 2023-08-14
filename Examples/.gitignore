@@ -1,7 +1,7 @@
 /cauchy_[0-9][0-9]
 /decoder
 /encoder
-/jerasure_[0-9][0-9]
+/jerasure_[0-33][0-33]
 /liberation_[0-9][0-9]
 /reed_sol_[0-9][0-9]
 /reed_sol_test_gf
